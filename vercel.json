@@ -1,0 +1,11 @@
+{
+  "redirects": [{"source": "/t",       "destination": "/v",       "permanent": true     }
+],
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://webizytech.com/$1"
+    }
+  ]
+}
+    
